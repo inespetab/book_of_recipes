@@ -4,8 +4,9 @@ Some history
 
 ## Ingredients
 
-- Ingredient 1 
-- Ingredient 2
+- Eggs
+- Oil
+- Lemon juice
 
 ## Instructions
 
